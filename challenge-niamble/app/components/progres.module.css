@@ -1,0 +1,10 @@
+.progress{
+    background-color: transparent;
+    color: grey;
+    height: 1rem;
+    border: 1px solid grey;
+}
+
+.progress::before{
+    background-color: transparent;
+}

@@ -1,0 +1,10 @@
+.activeNav{
+    color: orange;
+    border-bottom: 3px solid orange;
+    border-top: 3px solid orange;
+}
+
+.activeList{
+    background-color: orange;
+    color: rgba(0,0,0,0.6) !important;
+}
